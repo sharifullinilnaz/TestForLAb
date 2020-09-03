@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="javax.annotation">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/TKB/lib/javax.annotation.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TKB/lib/javax.ejb.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TKB/lib/javax.jms.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TKB/lib/javax.persistence.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TKB/lib/javax.resource.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TKB/lib/javax.servlet.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TKB/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TKB/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/TKB/lib/javax.transaction.jar!/" />
+      <root url="jar://D:/postgresql-9.3-1101.jdbc41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
